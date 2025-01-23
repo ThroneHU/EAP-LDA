@@ -1,5 +1,3 @@
-# EapLda
-
 # [Precision-Enhanced Image Attribute Prediction Model](https://github.com/ThroneHU/EapLda)
 ---
 ## C. Hu, J. Miao, Z. Su, X. Shi, Q. Chen, X. Luo 
